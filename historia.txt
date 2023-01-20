@@ -2,3 +2,5 @@ esto es un ejemplo para cpi senati
 es visual estudio code.
 
 Ahora estamos trabajando con git reset.
+
+Luego vamos a trabajr con el comando checkout.
